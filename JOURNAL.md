@@ -21,3 +21,11 @@ Took a printout of the original pico 1 to compare my designs, also added the cry
 ![image](https://github.com/user-attachments/assets/1ac737a1-be29-4112-a92f-759121977a1e)
 ![image](https://github.com/user-attachments/assets/2dfb95bd-b02e-407c-ba8e-f8437bc99f23)
 ![image](https://github.com/user-attachments/assets/fc22801d-a093-4131-a9eb-d1c7d402ecd4)
+
+# Day 4 - 20th June
+Time spent: 2 Hours <br>
+Finished up the schematic and made it look pretty! Set up footprints and added the components to the PCB. Also fixed some values in the capacitors.
+![image](https://github.com/user-attachments/assets/f8a0d9e6-298a-4e7d-b069-db887623f9f3)
+![image](https://github.com/user-attachments/assets/48af159b-32fd-488f-afff-4ba94011ab56)
+
+Neet to take some measurements before I can actually start tracing.
