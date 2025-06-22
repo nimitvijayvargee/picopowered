@@ -37,7 +37,7 @@ Researched on a lot of electrical requirements to make a ground plane work.
 
 # Day 6 - 22nd June
 Time spent: 5 Hours <br>
-Cotinued difference combinations of routing and component placements. However, a power spike caused me to lose the progress over the days. Rerouted and replaced all components and prepared for fabrication. Started designing silkscreen art!
+Cotinued difference combinations of routing and component placements. However, a power spike caused me to lose the progress over the previous day. Schematic was autosaved and recovered so i was able to replace all components, reroute and prepare for fabrication. Started designing silkscreen art!
 ![image](https://github.com/user-attachments/assets/ad5ae6d4-4b05-42da-bc17-61fb6d31e3a5)
 ![image](https://github.com/user-attachments/assets/d0d4abeb-978a-43b5-b35a-7f0e68ca9849)
 ![image](https://github.com/user-attachments/assets/3abb054e-def9-4c1e-ba7b-07c0d7a67670)
