@@ -42,3 +42,12 @@ Cotinued difference combinations of routing and component placements. However, a
 ![image](https://github.com/user-attachments/assets/d0d4abeb-978a-43b5-b35a-7f0e68ca9849)
 ![image](https://github.com/user-attachments/assets/3abb054e-def9-4c1e-ba7b-07c0d7a67670)
 
+# Day 7 - 23rd June
+Time spent: 2 Hours <br>
+Finished Silkscreen with cool arrows and a logo! Prepared some files for production.
+
+# Day 8 - 25th June
+Time spent: 1 Hour <br>
+Prepared BOM and Gerbers for JLC and readied submission for highway :D
+
+
