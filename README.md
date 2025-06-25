@@ -22,3 +22,9 @@ Most of the disadvantages occur only due to the Pico's superior power supply sys
 PCBA - 90$ (All components are SMD to save space and as per RP2040 Spec.) 
 
 For parts specific BOM, check picopowered.csv in /Production/
+
+# Gallery!
+![image](image1.png)
+![image](image2.png)
+![image](image3.png)
+![image](image4.png)
