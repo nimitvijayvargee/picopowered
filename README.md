@@ -18,9 +18,13 @@ A simple microcontroller built around the RP2040.
 Most of the disadvantages occur only due to the Pico's superior power supply system, but the system on the PicoPowered board is more filtered and smooth.
 
 # BOM
+| **Part**         | **Cost (USD)**          |
+|------------------|-------------------------|
+| PCB + Assembly   | 120                     |
+| Solder Wire      | 3                       |
+| Headers          | 3                       |
 
-PCBA - 140$ (All components are SMD to save space and as per RP2040 Spec.) 
-Headers - 3$ (Generic 2.54mm pin headers)
+
 
 For parts specific BOM, check picopowered.csv in /Production/
 
