@@ -19,7 +19,7 @@ Most of the disadvantages occur only due to the Pico's superior power supply sys
 
 # BOM
 
-PCBA - 140$ (All components are SMD to save space and as per RP2040 Spec.) 
+PCBA - 140$ (All components are SMD to save space and as per RP2040 Spec.)<br>
 Headers - 3$ (Generic 2.54mm pin headers)
 
 For parts specific BOM, check picopowered.csv in /Production/
