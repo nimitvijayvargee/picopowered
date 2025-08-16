@@ -1,6 +1,15 @@
 # picopowered
 A simple microcontroller built around the RP2040.
 
+# Changelog (V2)
+- Replaced 2020 Neopixel with more available 5050 footprint.
+- Fixed seperation between 1v1 and 3v3 power planes.
+- Better positioning and tracing of the components to improve overall signal integrity.
+- Added a regular LED to keep it somewhat compatible with regular Pico SDK Code.
+- Modified USB C port to be THT Mounted rather than completely SMD.
+- Moved GPIO 29 from VSYS Sense to an exposed pad on the bottom side of the PCB.
+
+
 # Featureset
 | **Stat**         | **Raspberry Pi Pico 1** | **Picopowered V1-RP2040** |
 |------------------|-------------------------|---------------------------|
@@ -28,8 +37,9 @@ Most of the disadvantages occur only due to the Pico's superior power supply sys
 
 For parts specific BOM, check picopowered.csv in /Production/
 
-# Gallery!
-![image](/img/image1.png)
-![image](/img/image2.png)
-![image](/img/image3.png)
-![image](/img/image4.png)
+# Gallery
+## V2 (Latest)
+![alt text](/img/v2.png)
+## V1
+![image](/img/v1.png)
+
