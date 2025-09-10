@@ -1,6 +1,12 @@
 # picopowered
 A simple microcontroller built around the RP2040.
 
+# Changelog (V3)
+- Redesigned board layout
+- Doubled headers
+- Dip switches and SD card slot connected to GP13-15 and GP16-19+29 respectively
+- Better power system and circuit design
+
 # Changelog (V2)
 - Replaced 2020 Neopixel with more available 5050 footprint.
 - Fixed seperation between 1v1 and 3v3 power planes.
@@ -38,7 +44,7 @@ Most of the disadvantages occur only due to the Pico's superior power supply sys
 For parts specific BOM, check picopowered.csv in /Production/
 
 # Gallery
-## V2 (Latest)
+## V2
 ![alt text](/img/v2.png)
 ## V1
 ![image](/img/v1.png)
