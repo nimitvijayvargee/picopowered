@@ -44,6 +44,8 @@ Most of the disadvantages occur only due to the Pico's superior power supply sys
 For parts specific BOM, check picopowered.csv in /Production/
 
 # Gallery
+## V3 (Latest)
+![alt text](/img/v3.png)
 ## V2
 ![alt text](/img/v2.png)
 ## V1
