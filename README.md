@@ -27,8 +27,8 @@ A simple microcontroller built around the RP2040.
 
 # Disadvantages
 - Linear regulator requuires minimum of 3.3 Volts, unlike Pico's buck boost converter which can be powered by 1.8 Volts.
-- No ADC_VREF (connected to GND instead) because the power by linear regulator is filtered already.
-- No Power Mode (GPIO23).
+- ~~No ADC_VREF (connected to GND instead) because the power by linear regulator is filtered already.~~ ADC VREF now works with picopowered V2 and V3
+- No Power Mode selection (stems from power supply used)
 
 Most of the disadvantages occur only due to the Pico's superior power supply system, but the system on the PicoPowered board is more filtered and smooth.
 
